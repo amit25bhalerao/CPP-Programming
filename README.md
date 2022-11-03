@@ -8,7 +8,7 @@
 
 [p1]: https://github.com/amit25bhalerao/CPP-Programming/blob/main/AxisBank/main.cpp
 [p2]: https://github.com/amit25bhalerao/CPP-Programming/blob/main/Factorial/main.cpp
-
+[p3]: https://github.com/amit25bhalerao/CPP-Programming/blob/main/PrimeNumbersBetweenRange/main.cpp
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 List of CPP Language Programs included in the repository:
@@ -23,4 +23,8 @@ Program 1 • Write a C++ program to simulate banking experience for an user. Pe
 
 <p align="justify"> 
 Program 2 • Write a CPP program to find the factorial of a number using recursion.
+</p>
+
+<p align="justify"> 
+Program 3 • Write a CPP program to display prime numbers within a user defined interval.
 </p>

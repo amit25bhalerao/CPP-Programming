@@ -1,0 +1,1 @@
+Write a CPP program to determing whether a given number is strong or not. 

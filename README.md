@@ -4,11 +4,12 @@
 | :------------: | :-----------------------------------: | :----------------------: | 
 |    Prog. 1     |              Axis Bank                |          [P1][p1]        |
 |    Prog. 2     |              Factorial                |          [P2][p2]        |
-
+|    Prog. 3     |      Prime Numbers Between Range      |          [P3][p3]        |
 
 [p1]: https://github.com/amit25bhalerao/CPP-Programming/blob/main/AxisBank/main.cpp
 [p2]: https://github.com/amit25bhalerao/CPP-Programming/blob/main/Factorial/main.cpp
 [p3]: https://github.com/amit25bhalerao/CPP-Programming/blob/main/PrimeNumbersBetweenRange/main.cpp
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 List of CPP Language Programs included in the repository:

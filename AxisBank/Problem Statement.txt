@@ -1,5 +1,5 @@
 Write a C++ program to simulate banking experience for an user. Perform the following operations:
 -> Create User Account
--> Display user details
+-> Display User Details
 -> Deposit Amount
 -> Withdraw Amount
